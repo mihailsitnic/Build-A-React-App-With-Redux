@@ -2,6 +2,10 @@
 ### atom .
 ### yarn add redux
 ### yarn add react-redux
+### yarn add json-server
+### yarn dev-server
+### curl http://localhost:8080/todos
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
