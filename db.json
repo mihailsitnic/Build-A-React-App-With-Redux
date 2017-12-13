@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Setup Fetch",
       "isComplete": false
+    },
+    {
+      "name": "New Todo",
+      "isComplete": false,
+      "id": 5
     }
   ]
 }
