@@ -1,6 +1,7 @@
 ### yarn create react-app redux-course
 ### atom .
 ### yarn add redux
+### yarn add react-redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
