@@ -5,6 +5,7 @@
 ### yarn add json-server
 ### yarn dev-server
 ### curl http://localhost:8080/todos
+### yarn add redux-thunk
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
