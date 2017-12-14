@@ -1,4 +1,4 @@
-import { TODO_ADD, TODOS_LOAD } from './todo'
+import { TODO_ADD, TODOS_LOAD, TODO_REPLACE } from './todo'
 const MESSAGE_SHOW = 'MESSAGE_SHOW'
 
 export const showMessage = (msg) => ({type: MESSAGE_SHOW, payload: msg})
@@ -10,6 +10,8 @@ export default function(state='', action) {
     case TODO_ADD:
       return ''
     case TODOS_LOAD:
+      return ''
+    case TODO_REPLACE:
       return ''
     default:
       return state

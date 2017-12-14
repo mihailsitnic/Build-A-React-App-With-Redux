@@ -13,21 +13,21 @@
     {
       "id": 3,
       "name": "Connect to Server",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 4,
       "name": "Setup Fetch",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "name": "New Todo",
-      "isComplete": false,
+      "isComplete": true,
       "id": 5
     },
     {
       "name": "Hello Redux",
-      "isComplete": false,
+      "isComplete": true,
       "id": 6
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "name": "+3",
-      "isComplete": false,
+      "isComplete": true,
       "id": 11
     }
   ]
