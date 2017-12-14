@@ -8,6 +8,8 @@
 ### yarn add redux-thunk
 ### yarn add redux-devtools-extension
 
+## END
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

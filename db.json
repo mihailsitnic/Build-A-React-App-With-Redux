@@ -24,6 +24,16 @@
       "name": "New Todo",
       "isComplete": false,
       "id": 5
+    },
+    {
+      "name": "Hello Redux",
+      "isComplete": false,
+      "id": 6
+    },
+    {
+      "name": "Hello Redux",
+      "isComplete": false,
+      "id": 7
     }
   ]
 }
