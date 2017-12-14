@@ -8,7 +8,10 @@
 ### yarn add redux-thunk
 ### yarn add redux-devtools-extension
 ### add react-router-dom
-
+### yarn dev-server
+### yarn dev
+### yarn build
+### yarn start
 ## END
 
 

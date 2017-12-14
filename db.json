@@ -27,7 +27,7 @@
     },
     {
       "name": "Hello Redux",
-      "isComplete": false,
+      "isComplete": true,
       "id": 7
     },
     {
@@ -37,8 +37,13 @@
     },
     {
       "name": "+1",
-      "isComplete": false,
+      "isComplete": true,
       "id": 9
+    },
+    {
+      "name": "Hello!",
+      "isComplete": false,
+      "id": 10
     }
   ]
 }
