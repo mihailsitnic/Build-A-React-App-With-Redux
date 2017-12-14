@@ -6,6 +6,7 @@
 ### yarn dev-server
 ### curl http://localhost:8080/todos
 ### yarn add redux-thunk
+### yarn add redux-devtools-extension
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
