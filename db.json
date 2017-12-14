@@ -34,6 +34,26 @@
       "name": "Hello Redux",
       "isComplete": false,
       "id": 7
+    },
+    {
+      "name": "Another new todo",
+      "isComplete": false,
+      "id": 8
+    },
+    {
+      "name": "+1",
+      "isComplete": false,
+      "id": 9
+    },
+    {
+      "name": "+2",
+      "isComplete": false,
+      "id": 10
+    },
+    {
+      "name": "+3",
+      "isComplete": false,
+      "id": 11
     }
   ]
 }
