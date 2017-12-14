@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "id": 1,
-      "name": "Setup Server",
-      "isComplete": true
-    },
-    {
       "id": 2,
       "name": "Start Server",
       "isComplete": true
@@ -44,16 +39,6 @@
       "name": "+1",
       "isComplete": false,
       "id": 9
-    },
-    {
-      "name": "+2",
-      "isComplete": false,
-      "id": 10
-    },
-    {
-      "name": "+3",
-      "isComplete": true,
-      "id": 11
     }
   ]
 }
